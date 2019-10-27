@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_application", "Console_application\Console_application.csproj", "{31CC282E-BED1-445B-87F3-2A814F2CCBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuSystem", "MenuSystem\MenuSystem.csproj", "{A41612E5-3C89-4B30-A46C-0F1B8BF7133F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", "GameEngine\GameEngine.csproj", "{4BF1B9F6-A70D-4868-92B7-673FEC55E327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{9F925C38-984E-4772-AE98-C6BEC62785F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31CC282E-BED1-445B-87F3-2A814F2CCBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CC282E-BED1-445B-87F3-2A814F2CCBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CC282E-BED1-445B-87F3-2A814F2CCBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CC282E-BED1-445B-87F3-2A814F2CCBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41612E5-3C89-4B30-A46C-0F1B8BF7133F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41612E5-3C89-4B30-A46C-0F1B8BF7133F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41612E5-3C89-4B30-A46C-0F1B8BF7133F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41612E5-3C89-4B30-A46C-0F1B8BF7133F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF1B9F6-A70D-4868-92B7-673FEC55E327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF1B9F6-A70D-4868-92B7-673FEC55E327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF1B9F6-A70D-4868-92B7-673FEC55E327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF1B9F6-A70D-4868-92B7-673FEC55E327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F925C38-984E-4772-AE98-C6BEC62785F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F925C38-984E-4772-AE98-C6BEC62785F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F925C38-984E-4772-AE98-C6BEC62785F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F925C38-984E-4772-AE98-C6BEC62785F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

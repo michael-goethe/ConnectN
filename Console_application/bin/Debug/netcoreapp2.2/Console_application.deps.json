@@ -1,0 +1,149 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Console_application/1.0.0": {
+        "dependencies": {
+          "ConsoleUI": "1.0.0",
+          "GameEngine": "1.0.0",
+          "MenuSystem": "1.0.0"
+        },
+        "runtime": {
+          "Console_application.dll": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.0-preview1.19504.10": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "4.700.19.50410"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.7.0-preview1.19504.10": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.6.0",
+            "fileVersion": "4.700.19.50410"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/4.7.0-preview1.19504.10": {
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.700.19.50410"
+          }
+        }
+      },
+      "System.Text.Json/4.7.0-preview1.19504.10": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0-preview1.19504.10",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.0-preview1.19504.10",
+          "System.Text.Encodings.Web": "4.7.0-preview1.19504.10"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Json.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.700.19.50410"
+          }
+        }
+      },
+      "ConsoleUI/1.0.0": {
+        "dependencies": {
+          "GameEngine": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleUI.dll": {}
+        }
+      },
+      "GameEngine/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "System.Text.Json": "4.7.0-preview1.19504.10"
+        },
+        "runtime": {
+          "GameEngine.dll": {}
+        }
+      },
+      "MenuSystem/1.0.0": {
+        "dependencies": {
+          "ConsoleUI": "1.0.0",
+          "GameEngine": "1.0.0"
+        },
+        "runtime": {
+          "MenuSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console_application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Bcl.AsyncInterfaces/1.1.0-preview1.19504.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TniVFaTccXO3C3oCGe0Otq3Ipll78rVHOcvJQKq034k+61Ny4aPCK5UvKxPRJ+/3OxluTs2mYo8wkLD/3n3x7A==",
+      "path": "microsoft.bcl.asyncinterfaces/1.1.0-preview1.19504.10",
+      "hashPath": "microsoft.bcl.asyncinterfaces.1.1.0-preview1.19504.10.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.0-preview1.19504.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zw6YIPYZNJdb5fVVlLLG0i9NO/p+10u8LM8ApWat+9oLo15xaCGC6XyYALrvc+DzmxkwWLxU6n8SNf71V+x3+Q==",
+      "path": "system.runtime.compilerservices.unsafe/4.7.0-preview1.19504.10",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.7.0-preview1.19504.10.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/4.7.0-preview1.19504.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qq53mGn5HBpLqozyWf4WulClgUAmwS36Q6QmXFGx09Q6qnN1eNnb1qwucS2z0FU/yhWnRgh+baKyKlzZLKNXXg==",
+      "path": "system.text.encodings.web/4.7.0-preview1.19504.10",
+      "hashPath": "system.text.encodings.web.4.7.0-preview1.19504.10.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.0-preview1.19504.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rXe5Jv5LckR60/MYkgm2vrAmXlwlZi/g1u30dLIVlTAeah5LYrINO7YLU+lFZfOJNgL9vXTv+Cjw/7wREKUbCg==",
+      "path": "system.text.json/4.7.0-preview1.19504.10",
+      "hashPath": "system.text.json.4.7.0-preview1.19504.10.nupkg.sha512"
+    },
+    "ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MenuSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

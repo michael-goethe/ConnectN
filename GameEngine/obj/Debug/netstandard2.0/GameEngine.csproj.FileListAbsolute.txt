@@ -1,0 +1,16 @@
+/home/mihkel/Projects/Console_application/GameEngine/bin/Debug/netstandard2.0/GameEngine.deps.json
+/home/mihkel/Projects/Console_application/GameEngine/bin/Debug/netstandard2.0/GameEngine.dll
+/home/mihkel/Projects/Console_application/GameEngine/bin/Debug/netstandard2.0/GameEngine.pdb
+/home/mihkel/Projects/Console_application/GameEngine/obj/Debug/netstandard2.0/GameEngine.AssemblyInfoInputs.cache
+/home/mihkel/Projects/Console_application/GameEngine/obj/Debug/netstandard2.0/GameEngine.AssemblyInfo.cs
+/home/mihkel/Projects/Console_application/GameEngine/obj/Debug/netstandard2.0/GameEngine.dll
+/home/mihkel/Projects/Console_application/GameEngine/obj/Debug/netstandard2.0/GameEngine.pdb
+/home/mihkel/Projects/Console_application/GameEngine/obj/Debug/netstandard2.0/GameEngine.csprojAssemblyReference.cache
+C:\Users\Mihkel\Documents\connectn_ivsb194442-master\GameEngine\bin\Debug\netstandard2.0\GameEngine.deps.json
+C:\Users\Mihkel\Documents\connectn_ivsb194442-master\GameEngine\bin\Debug\netstandard2.0\GameEngine.dll
+C:\Users\Mihkel\Documents\connectn_ivsb194442-master\GameEngine\bin\Debug\netstandard2.0\GameEngine.pdb
+C:\Users\Mihkel\Documents\connectn_ivsb194442-master\GameEngine\obj\Debug\netstandard2.0\GameEngine.csprojAssemblyReference.cache
+C:\Users\Mihkel\Documents\connectn_ivsb194442-master\GameEngine\obj\Debug\netstandard2.0\GameEngine.AssemblyInfoInputs.cache
+C:\Users\Mihkel\Documents\connectn_ivsb194442-master\GameEngine\obj\Debug\netstandard2.0\GameEngine.AssemblyInfo.cs
+C:\Users\Mihkel\Documents\connectn_ivsb194442-master\GameEngine\obj\Debug\netstandard2.0\GameEngine.dll
+C:\Users\Mihkel\Documents\connectn_ivsb194442-master\GameEngine\obj\Debug\netstandard2.0\GameEngine.pdb
